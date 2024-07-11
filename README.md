@@ -2,4 +2,4 @@
 Important Information
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This repo includes fundamental codes and real world examples. This repo is created for MITRE's Quantum Software Course (2024). 
+Created for MITRE's Quantum Software Course (2024). Includes fundamental codes and real world examples.
