@@ -2,4 +2,4 @@
 Important Information
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Created for MITRE's Quantum Software Course (2024). Includes fundamental codes and real world examples.
+Created for MITRE's Quantum Software Course (2024). Includes fundamental algorithms and real world examples.
