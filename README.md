@@ -5,9 +5,9 @@ Important Information
 Created for MIT BWSI's Quantum Software Course (2024 - 2026). Includes fundamental algorithms and real-world examples.
 
 
-Click [here]([url](https://stem.mitre.org/quantum/)) to view the course content.
+Click [here]([https://stem.mitre.org/quantum/]) to view the course content.
 
-See the [contributing guide]([url](https://github.com/lin-mel/quantum-software-course/blob/main/CONTRIBUTING.md)) for development info.
+See the [contributing guide]([https://github.com/lin-mel/quantum-software-course/blob/main/CONTRIBUTING.md]) for development info.
 
 Copyright © 2024 - 2026 The MITRE Corporation. ALL RIGHTS RESERVED.
 Copyright © 2024 - 2026 Lincoln Laboratory. ALL RIGHTS RESERVED.
