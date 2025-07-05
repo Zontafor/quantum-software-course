@@ -2,4 +2,4 @@
 Important Information
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Created for MIT BWSI's Quantum Software Course (2024 - 2025). Includes fundamental algorithms and real-world examples.
+Created for MIT BWSI's Quantum Software Course (2024 - 2026). Includes fundamental algorithms and real-world examples.
