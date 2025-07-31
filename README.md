@@ -2,7 +2,7 @@
 # Quantum Software & Development Course
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Created for MIT BWSI's Quantum Software Course (2024 - 2026). Includes fundamental algorithms and real-world examples.
+Created for MIT BWSI's Quantum Software Course (2024 - 2026). Includes fundamental algorithms and real-world examples. Please note that the 2024 - 2025 materials have been removed due to IP claims.
 
 
 Click [here]([https://stem.mitre.org/quantum/]) to view the course content.
